@@ -4,6 +4,9 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install vim synaptic git unzip curl ffmpeg ubuntu-restricted-extras guvcview fonts-firacode
 sudo apt install timeshift google-chrome-stable steam 
 
+bind 'set enable-bracketed-paste off'
+
+
 # Online accounts -> google chrome
 
 # Install discord
